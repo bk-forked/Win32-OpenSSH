@@ -1,6 +1,6 @@
 ## Readme
 
-[README](README) | [Install](https://github.com/PowerShell/Win32-OpenSSH/wiki/Install-Win32-OpenSSH)
+[README](README) | [Installation](https://github.com/PowerShell/Win32-OpenSSH/wiki/Install-Win32-OpenSSH)
 
 ## ChangeLog
 
